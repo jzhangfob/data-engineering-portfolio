@@ -15,7 +15,7 @@ Dive into my journey to build a comprehensive, end-to-end analytics pipeline cen
   - **Twitch-Data-Staging-Pipeline.ipynb**
     - Serves as the data modeling layer, loading raw data from storage and transforming it into fact and dimension tables designed for reporting and analytics 
 - scripts: Raw .py file copies from the Colab notebooks (TBD)
-- VG_Schema.jpg: A star schema that breaks raw video game data into structured fact and dimension tables for downstream reporting 
+- schema.jpg: A star schema that breaks raw video game data into structured fact and dimension tables for downstream reporting 
 
 ## Technologies Used:
 
