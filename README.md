@@ -4,9 +4,9 @@ Dive into my journey to build a comprehensive, end-to-end analytics pipeline cen
 ## What You'll Find Here:
 
 - API ETL Workflows: Extracting, transforming, and loading data from APIs like Twitch/IGDB and other public sources, ensuring clean and structured datasets ready for analysis.
-- Data Modeling: Designing efficient schemas to organize complex datasets, including games metadata, player statistics, and ratings.
-- Advanced Analytics: Uncovering trends and insights in the video game industry, from release patterns to pricing strategies and player preferences.
-- Interactive Dashboards: Visualizing the data in a user-friendly way, with compelling dashboards that tell a story about the gaming landscape.
+- Data Modeling (In-Progress): Designing efficient schemas to organize complex datasets, including games metadata, player statistics, and ratings.
+- Advanced Analytics (In-Progress): Uncovering trends and insights in the video game industry, from release patterns to pricing strategies and player preferences.
+- Interactive Dashboards (In-Progress): Visualizing the data in a user-friendly way, with compelling dashboards that tell a story about the gaming landscape.
 
 ## Repository Structure and File Details:
 - notebooks: Colab notebook with Python scripts used for ETL and data modeling 
