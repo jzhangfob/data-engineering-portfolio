@@ -3,10 +3,19 @@ Dive into my journey to build a comprehensive, end-to-end analytics pipeline cen
 
 ## What You'll Find Here:
 
-- API ETL Workflows: Extracting, transforming, and loading data from APIs like IGDB, RAWG, and other public sources, ensuring clean and structured datasets ready for analysis.
-- Data Modeling: Designing efficient schemas to organize complex datasets, including video games metadata, player statistics, and ratings.
+- API ETL Workflows: Extracting, transforming, and loading data from APIs like Twitch/IGDB and other public sources, ensuring clean and structured datasets ready for analysis.
+- Data Modeling: Designing efficient schemas to organize complex datasets, including games metadata, player statistics, and ratings.
 - Advanced Analytics: Uncovering trends and insights in the video game industry, from release patterns to pricing strategies and player preferences.
 - Interactive Dashboards: Visualizing the data in a user-friendly way, with compelling dashboards that tell a story about the gaming landscape.
+
+## Repository Structure and File Details:
+- notebooks: Colab notebook with Python scripts used for ETL and data modeling 
+  - **Twitch-Data-ETL.ipynb**
+    - Extracts and stores raw source data from Twitch/IGDB API's directly into GCP bucket storage
+  - **Twitch-Data-Staging-Pipeline.ipynb**
+    - Serves as the data modeling layer, loading raw data from storage and transforming it into fact and dimension tables designed for reporting and analytics 
+- scripts: Raw .py file copies from the Colab notebooks (TBD)
+- VG_Schema.jpg: A star schema that breaks raw video game data into structured fact and dimension tables for downstream reporting 
 
 ## Technologies Used:
 
