@@ -1,5 +1,5 @@
-# Welcome to My Video Game Analytics Portfolio! 🎮📊
-Dive into my journey to build a comprehensive, end-to-end analytics pipeline centered around the fascinating world of video games. This project explores publicly available video game data, leveraging modern data engineering and analytics tools to transform raw information into actionable insights.
+# IGDB Games Data Pipeline 🎮📊
+Dive into my journey to build a comprehensive, end-to-end analytics pipeline centered around publicly available video games data. This project leverages modern data engineering and analytics tools to transform raw information into actionable insights.
 
 ## What You'll Find Here:
 
